@@ -23,6 +23,28 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 
 ---
 
+## Data Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Batch%20%26%20Streaming%20Pipelines-17202A?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Batch and Streaming Pipelines" />
+  <img src="https://img.shields.io/badge/Lakehouse%20Architecture-232F3E?style=for-the-badge&logo=amazons3&logoColor=white" alt="Lakehouse Architecture" />
+  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Data Quality and Observability" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM%20Data%20Processing-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI and LLM Data Processing" />
+</p>
+
+| Layer | Modern Stack |
+| --- | --- |
+| Orchestration | Apache Airflow, Apache NiFi |
+| Processing | Apache Spark, Apache Flink, Python |
+| Streaming | Apache Kafka, Confluent |
+| Lakehouse | Apache Iceberg, Amazon S3, Databricks |
+| Transformation | dbt, Talend, Pentaho |
+| Warehouse and Query | BigQuery, Redshift, ClickHouse, PostgreSQL, SQL Server, Oracle |
+| Search and Enrichment | OpenSearch, MongoDB |
+| Monitoring | Grafana, Prometheus |
+
+---
+
 ## Core Skills
 
 - Data Engineering and Data Analysis
@@ -46,6 +68,7 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B?style=flat-square&logo=apache&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-2D72D9?style=flat-square&logo=apache&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-1F5A92?style=flat-square&logo=hitachi&logoColor=white)
@@ -59,6 +82,8 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
 ### Cloud and Data Platforms
 
