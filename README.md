@@ -176,19 +176,19 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 
 ## Professional Certifications
 
-- ![Apache Airflow](https://img.shields.io/badge/Airflow-17202A?style=flat-square&logo=apacheairflow&logoColor=white) Astronomer Certification DAG Authoring for Apache Airflow 3 - May 2026
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) Amazon Web Services: Associate Machine Learning Engineer - Apr 2026 to Apr 2029
-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) Google Cloud Platform: Professional Data Architect - Jan 2026 to Jan 2028
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) Amazon Web Services: Associate Data Engineer - Nov 2025 to Nov 2028
-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) Google Cloud Platform: Professional Data Engineer - Sep 2025 to Sep 2027
-- ![Confluent](https://img.shields.io/badge/Confluent-231F20?style=flat-square&logo=confluent&logoColor=white) Confluent: Data Streaming Engineer - Sep 2025 to Sep 2027
-- ![Apache Airflow](https://img.shields.io/badge/Airflow-17202A?style=flat-square&logo=apacheairflow&logoColor=white) Astronomer Certification for Apache Airflow 3 Fundamentals - Jun 2025
-- ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white) DP-600: Microsoft Fabric Data Analytics Associate - Jun 2025 to Jun 2026
-- ![Apache Airflow](https://img.shields.io/badge/Airflow-17202A?style=flat-square&logo=apacheairflow&logoColor=white) Astronomer Certification for Apache Airflow 2 Fundamentals - May 2025
-- ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white) DP-700: Microsoft Fabric Data Engineer Associate - Mar 2025 to Mar 2027
-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) Google Cloud Platform: Associate Cloud Engineer - Feb 2025 to Feb 2028
-- ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white) PL-300: Microsoft Power BI Data Analyst Associate - Dec 2024 to Dec 2026
-- ![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white) Alibaba ACA Database Associate - Nov 2024 to Nov 2026
+- Astronomer Certification DAG Authoring for Apache Airflow 3 - May 2026
+- Amazon Web Services: Associate Machine Learning Engineer - Apr 2026 to Apr 2029
+- Google Cloud Platform: Professional Data Architect - Jan 2026 to Jan 2028
+- Amazon Web Services: Associate Data Engineer - Nov 2025 to Nov 2028
+- Google Cloud Platform: Professional Data Engineer - Sep 2025 to Sep 2027
+- Confluent: Data Streaming Engineer - Sep 2025 to Sep 2027
+- Astronomer Certification for Apache Airflow 3 Fundamentals - Jun 2025
+- DP-600: Microsoft Fabric Data Analytics Associate - Jun 2025 to Jun 2026
+- Astronomer Certification for Apache Airflow 2 Fundamentals - May 2025
+- DP-700: Microsoft Fabric Data Engineer Associate - Mar 2025 to Mar 2027
+- Google Cloud Platform: Associate Cloud Engineer - Feb 2025 to Feb 2028
+- PL-300: Microsoft Power BI Data Analyst Associate - Dec 2024 to Dec 2026
+- Alibaba ACA Database Associate - Nov 2024 to Nov 2026
 
 ---
 
