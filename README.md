@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Julius Chaesar Magabe</h1>
-
 <p align="center">
   <strong>Data Engineer | Data Analyst | Data Warehouse | ETL | Cloud Data Platform</strong>
 </p>
@@ -19,7 +17,7 @@
 
 I am an accomplished **Data Engineer** and **Data Analyst** with **9+ years of experience** delivering data-driven solutions across retail, IT consulting, government administration, and finance.
 
-I specialize in **query languages**, **data engineering**, **data analysis**, **data warehousing**, **data visualization**, **ETL/ELT**, and **cloud computing**. My work focuses on building reliable data pipelines, designing analytical data warehouses, developing ETL workflows, and creating business intelligence dashboards that help organizations turn raw data into trusted insights.
+I specialize in **Python**, **query languages**, **data engineering**, **data analysis**, **data warehousing**, **data visualization**, **ETL/ELT**, and **cloud computing**. My work focuses on building reliable data pipelines, designing analytical data warehouses, developing ETL workflows, and creating business intelligence dashboards that help organizations turn raw data into trusted insights.
 
 I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modelling**, **streaming pipelines**, **cloud data platforms**, and modern analytics tools, with a proven track record of improving reporting, integration, and decision-making capabilities.
 
@@ -43,7 +41,7 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 
 ### Data Engineering
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2D3748?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
@@ -153,34 +151,19 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 
 ## Professional Certifications
 
-- Astronomer Certification DAG Authoring for Apache Airflow 3 - May 2026
-- Amazon Web Services: Associate Machine Learning Engineer - Apr 2026 to Apr 2029
-- Google Cloud Platform: Professional Data Architect - Jan 2026 to Jan 2028
-- Amazon Web Services: Associate Data Engineer - Nov 2025 to Nov 2028
-- Google Cloud Platform: Professional Data Engineer - Sep 2025 to Sep 2027
-- Confluent: Data Streaming Engineer - Sep 2025 to Sep 2027
-- Astronomer Certification for Apache Airflow 3 Fundamentals - Jun 2025
-- DP-600: Microsoft Fabric Data Analytics Associate - Jun 2025 to Jun 2026
-- Astronomer Certification for Apache Airflow 2 Fundamentals - May 2025
-- DP-700: Microsoft Fabric Data Engineer Associate - Mar 2025 to Mar 2027
-- Google Cloud Platform: Associate Cloud Engineer - Feb 2025 to Feb 2028
-- PL-300: Microsoft Power BI Data Analyst Associate - Dec 2024 to Dec 2026
-- Alibaba ACA Database Associate - Nov 2024 to Nov 2026
-
----
-
-## Education
-
-**Bachelor of Computer Science**  
-Binus University, Jakarta  
-2012 - 2016
-
----
-
-## Languages
-
-- Indonesian: Native or bilingual proficiency
-- English: Professional working proficiency
+- <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="18" height="18" alt="Apache Airflow" /> Astronomer Certification DAG Authoring for Apache Airflow 3 - May 2026
+- <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="18" height="18" alt="AWS" /> Amazon Web Services: Associate Machine Learning Engineer - Apr 2026 to Apr 2029
+- <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="18" height="18" alt="Google Cloud" /> Google Cloud Platform: Professional Data Architect - Jan 2026 to Jan 2028
+- <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="18" height="18" alt="AWS" /> Amazon Web Services: Associate Data Engineer - Nov 2025 to Nov 2028
+- <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="18" height="18" alt="Google Cloud" /> Google Cloud Platform: Professional Data Engineer - Sep 2025 to Sep 2027
+- <img src="https://cdn.simpleicons.org/confluent/231F20" width="18" height="18" alt="Confluent" /> Confluent: Data Streaming Engineer - Sep 2025 to Sep 2027
+- <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="18" height="18" alt="Apache Airflow" /> Astronomer Certification for Apache Airflow 3 Fundamentals - Jun 2025
+- <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="18" height="18" alt="Microsoft" /> DP-600: Microsoft Fabric Data Analytics Associate - Jun 2025 to Jun 2026
+- <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="18" height="18" alt="Apache Airflow" /> Astronomer Certification for Apache Airflow 2 Fundamentals - May 2025
+- <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="18" height="18" alt="Microsoft" /> DP-700: Microsoft Fabric Data Engineer Associate - Mar 2025 to Mar 2027
+- <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="18" height="18" alt="Google Cloud" /> Google Cloud Platform: Associate Cloud Engineer - Feb 2025 to Feb 2028
+- <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="18" height="18" alt="Microsoft" /> PL-300: Microsoft Power BI Data Analyst Associate - Dec 2024 to Dec 2026
+- <img src="https://cdn.simpleicons.org/alibabacloud/FF6A00" width="18" height="18" alt="Alibaba Cloud" /> Alibaba ACA Database Associate - Nov 2024 to Nov 2026
 
 ---
 
