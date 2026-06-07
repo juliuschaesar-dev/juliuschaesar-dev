@@ -38,7 +38,7 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 | Processing | Apache Spark, Apache Flink, Python |
 | Streaming | Apache Kafka, Debezium |
 | Lakehouse | Apache Iceberg, Amazon S3, Google Cloud Storage, Databricks |
-| Transformation | dbt, Talend, Pentaho |
+| Transformation | dbt, Talend, Pentaho, IBM DataStage, SSIS |
 | Warehouse and Query | BigQuery, Redshift, ClickHouse, PostgreSQL, SQL Server, Oracle |
 | Search and Enrichment | OpenSearch, MongoDB |
 | Monitoring | Grafana, Prometheus |
