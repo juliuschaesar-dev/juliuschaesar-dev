@@ -36,7 +36,7 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 | --- | --- |
 | Orchestration | Apache Airflow, Apache NiFi |
 | Processing | Apache Spark, Apache Flink, Python |
-| Streaming | Apache Kafka, Confluent |
+| Streaming | Apache Kafka, Debezium |
 | Lakehouse | Apache Iceberg, Amazon S3, Google Cloud Storage, Databricks |
 | Transformation | dbt, Talend, Pentaho |
 | Warehouse and Query | BigQuery, Redshift, ClickHouse, PostgreSQL, SQL Server, Oracle |
