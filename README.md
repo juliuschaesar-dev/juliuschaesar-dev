@@ -43,7 +43,7 @@ I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modell
 | Search and Enrichment | OpenSearch, MongoDB |
 | Monitoring | Grafana, Prometheus |
 | BI and Visualization | Power BI, Tableau, IBM Cognos, Metabase |
-| DevOps and Containerization | Docker |
+| DevOps and Containerization | Docker, Podman |
 | Collaboration | Jira, Confluence |
 | AI/LLM Data Processing | Python, OpenSearch, LLM-driven data workflows |
 
