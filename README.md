@@ -15,11 +15,7 @@
 
 ## About Me
 
-I am an accomplished **Data Engineer** and **Data Analyst** with **9+ years of experience** delivering data-driven solutions across retail, IT consulting, government administration, and finance.
-
-I specialize in **Python**, **query languages**, **data engineering**, **data analysis**, **data warehousing**, **data visualization**, **ETL/ELT**, and **cloud computing**. My work focuses on building reliable data pipelines, designing analytical data warehouses, developing ETL workflows, and creating business intelligence dashboards that help organizations turn raw data into trusted insights.
-
-I have hands-on experience with **Data Vault 2.0**, **Kimball dimensional modelling**, **streaming pipelines**, **cloud data platforms**, and modern analytics tools, with a proven track record of improving reporting, integration, and decision-making capabilities.
+I am a **Data Engineer** and **Data Analyst** with **9+ years of experience** building reliable data pipelines, analytical data warehouses, ETL/ELT workflows, data streaming systems, cloud-based data platforms, and AI/LLM data-driven solutions.
 
 ---
 
