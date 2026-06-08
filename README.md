@@ -28,7 +28,7 @@ I am a **Data Engineer** and **Data Analyst** with **9+ years of experience** bu
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM%20Data%20Processing-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI and LLM Data Processing" />
 </p>
 
-| Layer | Modern Stack |
+| Layer | Tech Stack |
 | --- | --- |
 | Orchestration | Apache Airflow, Apache NiFi |
 | Processing | Apache Spark, Apache Flink, Python |
