@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am a **Data Engineer** and **Data Analyst** with **9+ years of experience** building reliable data pipelines, analytical data warehouses, ETL/ELT workflows, data streaming systems, cloud-based data platforms, and AI/LLM data-driven solutions.
+I've spent the past **9+ years** turning messy data into something teams can actually rely on — from **ETL/ELT pipelines** and **data warehouses** to **streaming systems** and **cloud platforms**. These days I'm also exploring how **AI/LLMs** fit into that world, building data-driven solutions on top of it.
 
 ---
 
@@ -31,7 +31,8 @@ I am a **Data Engineer** and **Data Analyst** with **9+ years of experience** bu
 | Layer | Tech Stack |
 | --- | --- |
 | Orchestration | Apache Airflow, Apache NiFi |
-| Processing | Apache Spark, Apache Flink, Python |
+| Language | Python, SQL |
+| Processing | Apache Spark, Apache Flink |
 | Streaming | Apache Kafka, Debezium |
 | Lakehouse | Apache Iceberg, Amazon S3, Google Cloud Storage, Databricks |
 | Transformation | dbt, Talend, Pentaho, IBM DataStage, SSIS |
@@ -41,7 +42,7 @@ I am a **Data Engineer** and **Data Analyst** with **9+ years of experience** bu
 | BI and Visualization | Power BI, Tableau, IBM Cognos, Metabase |
 | DevOps and Containerization | Docker, Podman |
 | Collaboration | Jira, Confluence |
-| AI/LLM Data Processing | Python, OpenSearch, LLM-driven data workflows |
+| AI/LLM Data Processing | OpenSearch, LLM-driven data workflows |
 
 ---
 
