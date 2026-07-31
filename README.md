@@ -42,7 +42,7 @@ I've spent the past **9+ years** turning messy data into something teams can act
 | BI and Visualization | Power BI, Tableau, IBM Cognos, Metabase |
 | DevOps and Containerization | Docker, Podman |
 | Collaboration | Jira, Confluence |
-| AI/LLM Data Processing | OpenSearch, LLM-driven data workflows |
+| AI/LLM Data Processing | LLM-driven data workflows |
 
 ---
 
