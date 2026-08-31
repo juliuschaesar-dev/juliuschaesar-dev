@@ -66,19 +66,25 @@ I've spent the past **9+ years** turning messy data into something teams can act
 
 ### Use Case Projects
 
-- [datavault-dbt](https://github.com/juliuschaesar-dev/datavault-dbt)
-- [kafka-cdc-jdbc-sink](https://github.com/juliuschaesar-dev/kafka-cdc-jdbc-sink)
-- [kafka-cdc-flink](https://github.com/juliuschaesar-dev/kafka-cdc-flink)
+<p align="center">
+  <a href="https://github.com/juliuschaesar-dev/datavault-dbt"><img src="https://img.shields.io/badge/datavault--dbt-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="datavault-dbt" /></a>
+  <a href="https://github.com/juliuschaesar-dev/kafka-cdc-jdbc-sink"><img src="https://img.shields.io/badge/kafka--cdc--jdbc--sink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-jdbc-sink" /></a>
+  <a href="https://github.com/juliuschaesar-dev/kafka-cdc-flink"><img src="https://img.shields.io/badge/kafka--cdc--flink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-flink" /></a>
+</p>
 
 ### Learning Repos
 
-- [dbt-postgres-story](https://github.com/juliuschaesar-dev/dbt-postgres-story)
-- [sql-story-postgresql](https://github.com/juliuschaesar-dev/sql-story-postgresql)
+<p align="center">
+  <a href="https://github.com/juliuschaesar-dev/dbt-postgres-story"><img src="https://img.shields.io/badge/dbt--postgres--story-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="dbt-postgres-story" /></a>
+  <a href="https://github.com/juliuschaesar-dev/sql-story-postgresql"><img src="https://img.shields.io/badge/sql--story--postgresql-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="sql-story-postgresql" /></a>
+</p>
 
 ### Mentoring Repos
 
-- [kafka-hands-on-basic](https://github.com/juliuschaesar-dev/kafka-hands-on-basic)
-- [docker-hands-on-basic](https://github.com/juliuschaesar-dev/docker-hands-on-basic)
+<p align="center">
+  <a href="https://github.com/juliuschaesar-dev/kafka-hands-on-basic"><img src="https://img.shields.io/badge/kafka--hands--on--basic-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="kafka-hands-on-basic" /></a>
+  <a href="https://github.com/juliuschaesar-dev/docker-hands-on-basic"><img src="https://img.shields.io/badge/docker--hands--on--basic-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="docker-hands-on-basic" /></a>
+</p>
 
 ---
 
