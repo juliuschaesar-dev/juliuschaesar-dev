@@ -66,25 +66,19 @@ I've spent the past **9+ years** turning messy data into something teams can act
 
 ### Use Case Projects
 
-<p align="center">
-  <a href="https://github.com/juliuschaesar-dev/datavault-dbt"><img src="https://img.shields.io/badge/datavault--dbt-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="datavault-dbt" /></a>
-  <a href="https://github.com/juliuschaesar-dev/kafka-cdc-jdbc-sink"><img src="https://img.shields.io/badge/kafka--cdc--jdbc--sink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-jdbc-sink" /></a>
-  <a href="https://github.com/juliuschaesar-dev/kafka-cdc-flink"><img src="https://img.shields.io/badge/kafka--cdc--flink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-flink" /></a>
-</p>
+<a href="https://github.com/juliuschaesar-dev/datavault-dbt"><img src="https://img.shields.io/badge/datavault--dbt-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="datavault-dbt" /></a>
+<a href="https://github.com/juliuschaesar-dev/kafka-cdc-jdbc-sink"><img src="https://img.shields.io/badge/kafka--cdc--jdbc--sink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-jdbc-sink" /></a>
+<a href="https://github.com/juliuschaesar-dev/kafka-cdc-flink"><img src="https://img.shields.io/badge/kafka--cdc--flink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-flink" /></a>
 
 ### Learning Repos
 
-<p align="center">
-  <a href="https://github.com/juliuschaesar-dev/dbt-postgres-story"><img src="https://img.shields.io/badge/dbt--postgres--story-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="dbt-postgres-story" /></a>
-  <a href="https://github.com/juliuschaesar-dev/sql-story-postgresql"><img src="https://img.shields.io/badge/sql--story--postgresql-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="sql-story-postgresql" /></a>
-</p>
+<a href="https://github.com/juliuschaesar-dev/dbt-postgres-story"><img src="https://img.shields.io/badge/dbt--postgres--story-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="dbt-postgres-story" /></a>
+<a href="https://github.com/juliuschaesar-dev/sql-story-postgresql"><img src="https://img.shields.io/badge/sql--story--postgresql-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="sql-story-postgresql" /></a>
 
 ### Mentoring Repos
 
-<p align="center">
-  <a href="https://github.com/juliuschaesar-dev/kafka-hands-on-basic"><img src="https://img.shields.io/badge/kafka--hands--on--basic-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="kafka-hands-on-basic" /></a>
-  <a href="https://github.com/juliuschaesar-dev/docker-hands-on-basic"><img src="https://img.shields.io/badge/docker--hands--on--basic-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="docker-hands-on-basic" /></a>
-</p>
+<a href="https://github.com/juliuschaesar-dev/kafka-hands-on-basic"><img src="https://img.shields.io/badge/kafka--hands--on--basic-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="kafka-hands-on-basic" /></a>
+<a href="https://github.com/juliuschaesar-dev/docker-hands-on-basic"><img src="https://img.shields.io/badge/docker--hands--on--basic-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="docker-hands-on-basic" /></a>
 
 ---
 
