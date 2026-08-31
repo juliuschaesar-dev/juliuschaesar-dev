@@ -62,6 +62,26 @@ I've spent the past **9+ years** turning messy data into something teams can act
 
 ---
 
+## Projects
+
+### Use Case Projects
+
+- [datavault-dbt](https://github.com/juliuschaesar-dev/datavault-dbt)
+- [kafka-cdc-jdbc-sink](https://github.com/juliuschaesar-dev/kafka-cdc-jdbc-sink)
+- [kafka-cdc-flink](https://github.com/juliuschaesar-dev/kafka-cdc-flink)
+
+### Learning Repos
+
+- [dbt-postgres-story](https://github.com/juliuschaesar-dev/dbt-postgres-story)
+- [sql-story-postgresql](https://github.com/juliuschaesar-dev/sql-story-postgresql)
+
+### Mentoring Repos
+
+- [kafka-hands-on-basic](https://github.com/juliuschaesar-dev/kafka-hands-on-basic)
+- [docker-hands-on-basic](https://github.com/juliuschaesar-dev/docker-hands-on-basic)
+
+---
+
 ## Tech Stack
 
 ### Data Engineering
