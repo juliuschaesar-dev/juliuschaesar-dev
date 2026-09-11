@@ -68,6 +68,7 @@ I've spent the past **9+ years** turning messy data into something teams can act
 
 <a href="https://github.com/juliuschaesar-dev/airflow-duckdb-dash"><img src="https://img.shields.io/badge/airflow--duckdb--dash-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="airflow-duckdb-dash" /></a>
 <a href="https://github.com/juliuschaesar-dev/datavault-dbt"><img src="https://img.shields.io/badge/datavault--dbt-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="datavault-dbt" /></a>
+<a href="https://github.com/juliuschaesar-dev/databricks-spark-medallion"><img src="https://img.shields.io/badge/databricks--spark--medallion-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="databricks-spark-medallion" /></a>
 <a href="https://github.com/juliuschaesar-dev/kafka-cdc-jdbc-sink"><img src="https://img.shields.io/badge/kafka--cdc--jdbc--sink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-jdbc-sink" /></a>
 <a href="https://github.com/juliuschaesar-dev/kafka-cdc-flink"><img src="https://img.shields.io/badge/kafka--cdc--flink-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="kafka-cdc-flink" /></a>
 
