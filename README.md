@@ -30,15 +30,15 @@ I've spent the past **9+ years** turning messy data into something teams can act
 
 | Layer | Tech Stack |
 | --- | --- |
-| Orchestration | Apache Airflow, Apache NiFi |
+| Orchestration | Apache Airflow, Prefect, Apache NiFi |
 | Language | Python, SQL |
 | Processing | Apache Spark, Apache Flink |
 | Streaming | Apache Kafka, Debezium |
 | Cloud Computing | AWS, GCP, Azure, Alibaba Cloud |
-| Lakehouse | Apache Iceberg, Amazon S3, Google Cloud Storage, Databricks |
+| Lakehouse | Apache Iceberg, Amazon S3, Google Cloud Storage, SeaweedFS |
 | Data Platform | Databricks, Microsoft Fabric, Snowflake |
 | Transformation | dbt, Talend, Pentaho, IBM DataStage, SSIS |
-| Warehouse and Query | BigQuery, Redshift, ClickHouse, PostgreSQL, SQL Server, Oracle |
+| Warehouse and Query | BigQuery, Redshift, ClickHouse, DuckDB, PostgreSQL, SQL Server, Oracle |
 | Search and Enrichment | OpenSearch, MongoDB |
 | Monitoring | Grafana, Prometheus |
 | BI and Visualization | Power BI, Tableau, IBM Cognos, Metabase |
