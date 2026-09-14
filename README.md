@@ -38,7 +38,7 @@ I've spent the past **9+ years** turning messy data into something teams can act
 | Lakehouse | Apache Iceberg, Amazon S3, Google Cloud Storage, SeaweedFS |
 | Data Platform | Databricks, Microsoft Fabric, Snowflake |
 | Transformation | dbt, Talend, Pentaho, IBM DataStage, SSIS |
-| Warehouse and Query | BigQuery, Redshift, ClickHouse, DuckDB, PostgreSQL, SQL Server, Oracle |
+| Warehouse and Query | BigQuery, Redshift, ClickHouse, DuckDB, PostgreSQL, SQL Server, Oracle, Trino |
 | Search and Enrichment | OpenSearch, MongoDB |
 | Monitoring | Grafana, Prometheus |
 | BI and Visualization | Power BI, Tableau, IBM Cognos, Metabase |
@@ -58,7 +58,7 @@ I've spent the past **9+ years** turning messy data into something teams can act
 - Workflow orchestration with Apache Airflow
 - Streaming and integration with Kafka and Apache NiFi
 - Cloud data solutions on Google Cloud Platform, AWS, and Alibaba Cloud
-- Data platforms including Databricks and Microsoft Fabric
+- Data platforms including Databricks, Microsoft Fabric, and Snowflake
 
 ---
 
